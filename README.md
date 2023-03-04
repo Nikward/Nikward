@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7D740&multiline=true&repeat=false&width=435&lines=%F0%9F%91%8BHey!+My+name+is+Nikolay.+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=2D9136&background=42672C00&multiline=true&repeat=false&width=435&lines=%F0%9F%91%8BHey!+My+name+is+Nikolay.+)](https://git.io/typing-svg)
 ## I want to be a python developer!
 ### 🚀💻 Technologies & Tool:
 <div>
