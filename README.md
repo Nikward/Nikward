@@ -1,6 +1,10 @@
 ### 👋Hey! Nice to see You.
 ### Technologies & Tools
-<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=yellow"/>
+<p align="center">
+	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
+	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
+	<img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="40" style="vertical-align:down; margin:4px"/>	
+</p>
 
 <!--
 **Nikward/Nikward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
