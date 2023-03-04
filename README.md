@@ -1,4 +1,6 @@
-### Hi there 👋
+### 👋Hey! Nice to see You.
+### Technologies & Tools
+<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=yellow"/>
 
 <!--
 **Nikward/Nikward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
